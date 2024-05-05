@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Amal Raj Vinoth James. I am a Software Engineer.
+My name is Amal James. I am a Software Engineer.
 
 You can reach out to me on
 
